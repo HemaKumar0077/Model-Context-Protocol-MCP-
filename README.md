@@ -1,6 +1,6 @@
 # The Definitive Guide to the Model Context Protocol (MCP)
 
-![MCP Header](./assets/mcp-header.png)
+![MCP Header](./assets/mcp-header.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
