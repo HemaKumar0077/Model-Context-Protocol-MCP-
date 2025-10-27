@@ -305,7 +305,7 @@ mindmap
 
 ### Agent Supply Chain Security
 
-![Security Threats](./assets/security-threats.png)
+![Security Threats](./assets/Main.webp)
 
 #### Key Threats
 
